@@ -10,10 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "react": "16.12.0",
-    "react-native": "0.61.5",
+    "components": "0.0.1",
     "path": "^0.12.7",
-    "components": "0.0.1"
+    "react": "16.12.0",
+    "react-native": "0.61.5"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
